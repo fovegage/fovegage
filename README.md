@@ -7,6 +7,6 @@
 
 - 🌱 I’m currently learning AI and Rust
 
-- 💞️ I’m looking to collaborate on Spiders, Automation 
+- 💞️ I’m looking to collaborate on Spiders, Big Data
 
 - 📫 Reach me by my email fovegage at gmail
