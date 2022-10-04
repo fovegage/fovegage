@@ -1,7 +1,7 @@
 
 ### About Me
 
-- I'm a self-taught passionate Full stack development engineer from China 🇨🇳
+- 🇨🇳 I'm a self-taught passionate full stack development engineer from China 
 
 - 👀 I’m interested in OS, Kubernetes, AI, Go, Python
 
