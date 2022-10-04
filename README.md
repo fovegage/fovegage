@@ -1,5 +1,3 @@
-**About me**
-
 - I'm a self-taught passionate Full stack development engineer from China 🇨🇳
 
 - 👀 I’m interested in OS, Kubernetes, AI, Go, Python
@@ -11,5 +9,5 @@
 - 📫 Reach me by my email fovegage at gmail
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fovegage&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="fovegage's github stats" /> | <a href="https://github.com/fovegage"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fovegage&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fovegage&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="fovegage's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fovegage&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
