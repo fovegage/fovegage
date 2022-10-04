@@ -9,5 +9,5 @@
 - 📫 Reach me by my email fovegage at gmail
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fovegage&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="fovegage's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fovegage&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" style="user-select: none; -webkit-user-drag: none;" src="https://github-readme-stats.vercel.app/api?username=fovegage&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="fovegage's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fovegage&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
