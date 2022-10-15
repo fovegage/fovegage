@@ -5,6 +5,6 @@
 
 - 💞️ I’m interested in Hacker, Kubernetes, AI, Go, Python, C++
 
-- 👀 I’m currently learning Dolidity and Rust
+- 👀 I’m currently learning Solidity and Rust
 
 - 📫 Reach me by my email fovegage at gmail
