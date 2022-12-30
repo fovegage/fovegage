@@ -1,7 +1,7 @@
 
 ### About Me
 
-- 🇨🇳 I'm a full-stack engineer from China
+- 🇨🇳 I’m a full-stack engineer from China
 
 - 💞️ I’m interested in Hacker, Kubernetes, AI, Go, Python, Java
 
